@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello atguigu! hello git!
 
 hello atguigu! hello git!
@@ -22,4 +23,8 @@ hello atguigu! hello git!
 
 
 
+=======
+你干嘛哈哈哎呦
+>>>>>>> hot-fix
 
+你干嘛哈哈哎呦
